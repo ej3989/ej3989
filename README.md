@@ -1,7 +1,7 @@
 1. /home/mobis/ 에서 ej3989.tar.gz 압축 해제 
 
 2. 공유 라이브러리 폴더 추가 
-export LD_LIBRARY_PATH=/home/mobis/myLib:/home/mobis/ej3989/ej_board/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/mobis/ej3989/ej_board/lib:$LD_LIBRARY_PATH
 
 3. 전체 파일 make 진행 
 cd /home/mobis/ej3989/ej_board/src 
